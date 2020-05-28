@@ -1,9 +1,9 @@
-# Hi, my name is Cristian Moreno.
+# Hi, my name is Williams Limonchi pero llamame Wels.
 
-FullStack Javascript Developer and Community builder 👨🏻‍💻🤝 👨🏻‍🏫
+Electronic Engineer, Community builder and Youtuber 👨🏻‍🏫🤝🖥️
 
-Producer [@commitfm](https://twitter.com/commitfm) 🎙📻
+Creador de contenido educativo en [@WelsTheory](https://youtube.com/wels_theory) 📹🎙️
 
-Co-Organize of [@MedellinJS](https://twitter.com/medellinjs) [@avanet](https://twitter.com/avanet)
+Fundador de [@4550](https://instagram.com/team.4550) 
 
-Javascript Developer Avocado 🥑
+Apasionado por sistemas embebidos 🚀
