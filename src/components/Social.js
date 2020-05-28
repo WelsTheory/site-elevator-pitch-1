@@ -6,8 +6,10 @@ import TwitterIcon from 'react-feather/dist/icons/twitter';
 import MailIcon from 'react-feather/dist/icons/mail';
 import CodeIcon from 'react-feather/dist/icons/code';
 import YoutubeIcon from 'react-feather/dist/icons/youtube';
-import FacebookIcon from 'react-feather/dist/icons/facebook';
-import InstagramIcon from 'react-feather/dist/icons/instagram';
+//import CamaraIcon from 'react-feather/dist/icons/camera'; 
+//import FacebookIcon from 'react-feather/dist/icons/facebook';
+//import InstagramIcon from 'react-feather/dist/icons/instagram';
+//import YoutubeIcon from 'react-feather/dist/icons/youtube';
 
 import style from '../styles/social';
 

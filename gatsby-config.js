@@ -8,13 +8,13 @@ module.exports = {
     language: 'en',
     description: 'Ingeniero Electronico, especializado en sistemas embebidos | Desarrollador de contenido educativo @wels | Fundador de 4550',
     socialLinks: {
+      youtube: 'https://youtube.com/wels_theory',
       github: 'https://github.com/welstheory',
       twitter: 'https://twitter.com/welstheory',
-      facebook: 'https://facebook.com/welstheory',
-      youtube: 'https://youtube.com/wels_theory',
-      instagram: 'https://instagram.com/wels.theory',
       web: 'https://welstheory.com',
       mailto: 'mailto:hola@welstheory.com',
+      facebook: 'https://facebook.com/welstheory',
+      instagram: 'https://instagram.com/wels.theory',
     },
   },
   plugins: [
