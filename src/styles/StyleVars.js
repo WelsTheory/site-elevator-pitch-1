@@ -4,10 +4,10 @@ import { Global, css } from '@emotion/core';
 import 'typeface-open-sans';
 
 const COLORS = [
-  '#5196A6',
-  '#03a9f4',
-  '#3F51B5',
-  '#5196A6',
+  '#000000',
+  '#2E8857',
+  '#2E8857',
+  '#FFFFFF',
 ]
 
 const StyleVars = () => (
