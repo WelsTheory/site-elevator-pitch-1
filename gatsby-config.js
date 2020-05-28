@@ -2,7 +2,7 @@ require('dotenv').config();
 
 module.exports = {
   siteMetadata: {
-        title: 'Wels | Ingeniero Electronico y Youtuber 👨🏻‍🏫🤝🖥️| Fundador de @Team.4550',
+        title: 'Wels | Ingeniero Electronico y Youtuber 👨🏻‍🏫🤝🖥️| Fundador de 4550',
     url: 'https://welstheory.com',
     image: 'https://youtube.com/wels_theory',
     language: 'en',

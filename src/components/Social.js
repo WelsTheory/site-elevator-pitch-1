@@ -18,6 +18,8 @@ const Social = () => (
             socialLinks {
               github
               twitter
+              facebook
+              instagram
               mailto
               youtube
             }
@@ -32,6 +34,8 @@ const Social = () => (
             socialLinks: {
               github,
               twitter,
+              facebook,
+              instagram,
               mailto,
               youtube
             },
@@ -47,9 +51,12 @@ const Social = () => (
           <a target="_blank" rel="noopener noreferrer" href={twitter}>
             <TwitterIcon />
           </a>
-          <a target="_blank" rel="noopener noreferrer" href={github}>
+          <a target="_blank" rel="noopener noreferrer" href={facebook}>
             <CodeIcon />
           </a>
+            <a target="_blank" rel="noopener noreferrer" href={instagram}>
+                <CodeIcon />
+            </a>
           <a target="_blank" rel="noopener noreferrer" href={youtube}>
             <YoutubeIcon />
           </a>

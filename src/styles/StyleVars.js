@@ -21,7 +21,7 @@ const StyleVars = () => (
         --textColor: #F2F0EB;
         --brightTextColor: #FFF;
         --fontFamily: 'Lato', Bold, sans-serif;
-        --linkColor: #CDDC39;
+        --linkColor: #000;
         --hoverLinkColor: #9E9E9E;
         --brightLinkColor: #ddd;
       }
