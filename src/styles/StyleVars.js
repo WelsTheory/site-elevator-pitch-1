@@ -22,7 +22,7 @@ const StyleVars = () => (
         --brightTextColor: #FFF;
         --fontFamily: 'Lato', Bold, sans-serif;
         --linkColor: #000;
-        --hoverLinkColor: #9E9E9E;
+        --hoverLinkColor: #888888;
         --brightLinkColor: #ddd;
       }
     `}
