@@ -2,18 +2,19 @@ require('dotenv').config();
 
 module.exports = {
   siteMetadata: {
-    title: 'khriztianmoreno | FullStack Javascript Developer 👨🏼‍💻👨🏼‍🏫| Producer @commitfm🎙📻',
-    url: 'https://khriztianmoreno.dev',
-    image: 'https://khriztianmoreno.com/img/profile.jpg',
+        title: 'Wels | Ingeniero Electronico y Youtuber 👨🏻‍🏫🤝🖥️| Fundador de @Team.4550',
+    url: 'https://welstheory.com',
+    image: 'https://youtube.com/wels_theory',
     language: 'en',
-    description: 'FullStack Javascript Developer and Community builder | Producer @commitfm | Co-Organize of @MedellinJS @avanet.',
+    description: 'Ingeniero Electronico, especializado en sistemas embebidos | Desarrollador de contenido educativo @wels | Fundador de @Team.4550',
     socialLinks: {
-      github: 'https://github.com/khriztianmoreno',
-      twitter: 'https://twitter.com/khriztianmoreno',
-      facebook: 'https://facebook.com/khriztianmoreno',
-      youtube: 'https://youtube.com/khriztianmoreno',
-      web: 'https://khriztianmoreno.com',
-      mailto: 'mailto:khriztianmoreno@gmail.com',
+      github: 'https://github.com/welstheory',
+      twitter: 'https://twitter.com/welstheory',
+      facebook: 'https://facebook.com/welstheory',
+      youtube: 'https://youtube.com/wels_theory',
+      instagram: 'https://instagram.com/wels.theory',
+      web: 'https://welstheory.com',
+      mailto: 'mailto:hola@welstheory.com',
     },
   },
   plugins: [

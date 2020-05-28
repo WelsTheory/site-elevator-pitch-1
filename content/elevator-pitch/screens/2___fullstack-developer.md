@@ -1,3 +1,3 @@
-# I'm a FullStack Javascript Developer 👨🏻‍💻
+# Soy Ingeniero Electronico, especializado en sistemas embebidos 🚀
 
-On a daily basis I use: JavaScript (ES6), React, Gatsby, CSS (inJS), GraphQL, just to name the most important bits.
+Programo microcontroladores en Assembler (ASM), C ANSI, Matlab y Python, sólo por mencionar los más importantes. 

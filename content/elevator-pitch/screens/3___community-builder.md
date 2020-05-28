@@ -1,3 +1,3 @@
-# and Community Builder 👨🏻‍💻🤝 👨🏻‍🏫
+# Creador de Contenido Educativo 🖥️🚀
 
-I'm a community leader and altruistic speaker. Currently co-organize **Medellin.js** *(Biggest JavaScript user group in Colombia)*, **Avanet** and Azure Cloud Medellin communities.
+Soy Youtuber, desarrrollar de contenido educativo. Realizo tutoriales y talleres virtuales de programación de microcontroladores.

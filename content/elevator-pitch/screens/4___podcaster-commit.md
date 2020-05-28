@@ -1,3 +1,3 @@
-# Also, I'm Podcaster 🎙🎧
+# También, Soy fundador de 4550🎙🎧
 
-[Commit.fm](https://twitter.com/commitfm) is a podcast 📻 in Spanish 🇨🇴 where I share experiences, anecdotes and much more around the world of software development. 💻🚀
+[4550](https://facebook.com/team4550) es un equipo que desarrollar proyectos, enseñar y difundir conocimientos. 💻🚀

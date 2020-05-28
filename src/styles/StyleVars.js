@@ -6,7 +6,7 @@ import 'typeface-open-sans';
 const COLORS = [
   '#000000',
   '#2E8857',
-  '#2E8857',
+  '#FFFFFF',
   '#FFFFFF',
 ]
 
