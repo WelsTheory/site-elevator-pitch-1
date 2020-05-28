@@ -1,12 +1,8 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/a5faf450-7640-4748-bb13-b4485b787b29/deploy-status)](https://app.netlify.com/sites/gifted-thompson-49a0c5/deploys)
 
-# 👨🏼‍💻 Khriztianmoreno Elevator Pitch Web Site 
+# Proyecto realizado de: Khriztianmoreno Elevator Pitch Web Site 
 
 A Gatsby theme presenting a person
-
-<p align="center">
-  <img alt="GraphQL Data in React with Apollo Client" src="./.readme-static/pitch.gif" width="80%" />
-</p>
 
 
 ## Prerequisites
@@ -65,6 +61,15 @@ root
   │       └── screens
   │           ├── 1___first-screen.md
   │           └── 2___second-screen.md
+```
+
+Change the background colors:
+
+```
+root
+  ├── src
+  │   └── styles
+  │       ├── StyleVars.js
 ```
 
 #### Files names
