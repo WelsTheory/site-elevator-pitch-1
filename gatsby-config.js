@@ -6,7 +6,7 @@ module.exports = {
     url: 'https://welstheory.com',
     image: 'https://youtube.com/wels_theory',
     language: 'en',
-    description: 'Ingeniero Electronico, especializado en sistemas embebidos | Desarrollador de contenido educativo @wels | Fundador de @Team.4550',
+    description: 'Ingeniero Electronico, especializado en sistemas embebidos | Desarrollador de contenido educativo @wels | Fundador de 4550',
     socialLinks: {
       github: 'https://github.com/welstheory',
       twitter: 'https://twitter.com/welstheory',
