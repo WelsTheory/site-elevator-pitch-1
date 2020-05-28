@@ -1,8 +1,8 @@
-# Hi, my name is Williams Limonchi pero llamame Wels.
+# Hola, mi nombre es Williams Limonchi pero llamame Wels.
 
-Electronic Engineer, Community builder and Youtuber 👨🏻‍🏫🤝🖥️
+Ingeniero electrónico y Youtuber 👨🏻‍🏫🤝🖥️
 
-Creador de contenido educativo en [@WelsTheory](https://youtube.com/wels_theory) 📹🎙️
+Creador de contenido educativo en [YT/WelsTheory](https://youtube.com/wels_theory) 📹🎙️
 
 Fundador de [@4550](https://instagram.com/team.4550) 
 
