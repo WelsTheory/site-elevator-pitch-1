@@ -4,7 +4,7 @@ import { Global, css } from '@emotion/core';
 import 'typeface-open-sans';
 
 const COLORS = [
-  '#673ab7',
+  '#5196A6',
   '#03a9f4',
   '#3F51B5',
   '#5196A6',
